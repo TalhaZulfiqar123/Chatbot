@@ -43,8 +43,8 @@ You can interact with advanced models such as <code>Mixtral</code>, <code>LLaMA3
 </ul>
 
 <h2>Project Structure</h2>
-<pre><code>├── chatbot_app.py
-└── README.html  ← (This file)</code></pre>
+<pre><code>├── chatbot.py
+└── README.md</code></pre>
 
 <footer>
     © 2025 Talha Zulfiqar — AI-Powered Chatbot | Built with Groq & Streamlit
